@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+soundfile
+python-multipart
+streamlit
+requests
+streamlit-mic-recorder
